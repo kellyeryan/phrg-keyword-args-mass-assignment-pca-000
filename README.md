@@ -201,6 +201,4 @@ end
 
 ???
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/keyword-args-mass-assignment' title='Mass Assignment'>Mass Assignment</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/keyword-args-mass-assignment'>Mass Assignment</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Keyword Arguments and Mass Assignment</p>
